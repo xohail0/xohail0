@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 xohail0 — Programmer | Security Researcher</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,apple,rust,python,cs,swift,php,bash" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple,rust,c,cpp,python,cs,swift,php,bash" alt="Tech Stack" />
 </p>
 
 ---
@@ -17,7 +17,7 @@ I love building things that **break limits** and exploring the internals of syst
 
 ### 💻 Cross-Platform Development
 - Built apps for **Windows**, **Linux**, and **macOS**
-- Develop secure backends and custom tools in **PHP**, **Python**, **Rust**, **C/C++**
+- Develop secure backends and custom tools in **Rust**, **C/C++**, , **Python**, **PHP**
 
 
 ### ☁️ VPS & Web Infrastructure
