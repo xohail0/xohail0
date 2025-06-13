@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 xohail0 — Programmer | Security Researcher</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,macos,php,python,cpp,html,css,js,mysql,rust,androidstudio,react,nodejs,bash" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,macos,bash,php,mysql,rust,python,js,html,css" alt="Tech Stack" />
 </p>
 
 ---
