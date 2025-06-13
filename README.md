@@ -31,14 +31,15 @@ I love building things that **break limits** and exploring the internals of syst
 
 | Languages | Platforms |
 |----------|-----------|
-| PHP, Python, C/C++, Rust, Bash, HTML/CSS | Windows, Linux, macOS, Android, iOS |
+rust,c,cpp,python,cs,swift,php,bash
+| Rust, C/C++, Python, C#, Swift, PHP | Windows, Linux, macOS, Android, iOS |
 
 ---
 
 ## 📦 Projects & Goals
 
-- 🧪 **PenTest Automation Tools** — Building ethical hacking tools for automated recon and analysis
 - 📲 **Cross-Platform App Development** — Windows/Linux/macOS utilities and automation apps
+- 🧪 **PenTest Automation Tools** — Building ethical hacking tools for automated recon and analysis
 
 ---
 
