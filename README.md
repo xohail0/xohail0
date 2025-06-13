@@ -38,7 +38,7 @@ I love building things that **break limits** and exploring the internals of syst
 ## 📦 Projects & Goals
 
 - 🧪 **PenTest Automation Tools** — Building ethical hacking tools for automated recon and analysis
-- 📲 **Cross-Platform App Development** — Windows/macOS/Linux utilities and automation apps
+- 📲 **Cross-Platform App Development** — Windows/Linux/macOS utilities and automation apps
 
 ---
 
